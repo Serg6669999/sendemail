@@ -25,7 +25,7 @@ SECRET_KEY = 'z()nf8xyw9#uqm-egzgeutr)kx750bm(^hwd=@i^$+d+z5w7v&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'sendemail.pythonanywhere.com']
 
 
 # Application definition
